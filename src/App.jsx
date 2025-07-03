@@ -1,6 +1,6 @@
 import { useState } from 'react'
 import { BrowserRouter, Route, Routes } from 'react-router-dom'
-import Home from './pages/home/Home'
+import Home from './components/home/Home'
 import List from './pages/list/List'
 import Hotel from './pages/hotel/Hotel'
 function App
