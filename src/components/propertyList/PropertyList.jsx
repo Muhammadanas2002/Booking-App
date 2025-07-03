@@ -1,5 +1,5 @@
-import "./propertyList.css"
-const PropertyList = () => {
+import "./PropertyList.css"
+function PropertyList() {
     return (
         <div className='plist'>
             <div className="plistItem">
