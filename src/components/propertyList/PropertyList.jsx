@@ -1,5 +1,5 @@
-import "./PropertyList.css"
-function PropertyList() {
+import "./Propertylist.css"
+function Propertylist() {
     return (
         <div className='plist'>
             <div className="plistItem">
@@ -34,4 +34,4 @@ function PropertyList() {
     )
 }
 
-export default PropertyList
+export default Propertylist
