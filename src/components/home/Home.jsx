@@ -1,10 +1,10 @@
-import Featured from "../../components/featured/Featured"
-import FeatureHotels from "../../components/featuredhotels/FeatureHotels"
-import Header from "../../components/header/Header"
-import Navbar from "../../components/navbar/navbar"
-import PropertyList from "../../components/propertyList/propertyList"
-import MailList from "../../components/MailList/MailList"
+import Featured from "../featured/Featured"
+import FeatureHotels from "../featuredhotels/FeatureHotels"
+import Header from "../header/Header"
+import Navbar from "../navbar/navbar"
+import MailList from "../MailList/MailList"
 import "./home.css"
+import PropertyList from "../propertyList/propertyList"
 
 const Home = () => {
   return (
