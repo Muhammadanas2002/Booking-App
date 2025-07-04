@@ -1,6 +1,6 @@
 import Featured from "../featured/Featured"
 import FeatureHotels from "../featuredhotels/FeatureHotels"
-import Header from "../header/Header"
+import Header from "../Header/Header"
 import Navbar from "../navbar/navbar"
 import MailList from "../MailList/MailList"
 import "./home.css"
