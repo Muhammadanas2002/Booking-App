@@ -1,4 +1,4 @@
-import "./propertylist.css"
+import "./Propertylist.css"
 function Propertylist() {
     return (
         <div className='plist'>
