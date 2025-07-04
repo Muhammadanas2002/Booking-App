@@ -4,7 +4,7 @@ import Header from "../header/Header"
 import Navbar from "../navbar/navbar"
 import MailList from "../MailList/MailList"
 import "./home.css"
-import Propertylist from "../propertyList/propertyList"
+import Propertylist from "../propertyList/PropertyList.jsx"
 const Home = () => {
   return (
     <div>
