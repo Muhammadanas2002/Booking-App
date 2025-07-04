@@ -4,7 +4,12 @@ import Header from "../header/Header"
 import Navbar from "../navbar/navbar"
 import MailList from "../MailList/MailList"
 import "./home.css"
+// <<<<<<< Updated upstream
 import Propertylist from "../propertyList/PropertyList.jsx"
+// =======
+// import Propertylist from "../propertyList/propertyList"
+import Footer from "../Footer/Footer"
+// >>>>>>> Stashed changes
 const Home = () => {
   return (
     <div>
@@ -19,6 +24,7 @@ const Home = () => {
         <h1 className="homeTitle">Homes guests love</h1>
         <FeatureHotels />
         <MailList />
+        <Footer />
       </div>
     </div>
   )
