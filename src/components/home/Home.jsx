@@ -4,12 +4,7 @@ import Header from "../header/Header"
 import Navbar from "../navbar/navbar"
 import MailList from "../MailList/MailList"
 import "./home.css"
-// <<<<<<< Updated upstream
-import Propertylist from "../propertyList/PropertyList.jsx"
-// =======
-// import Propertylist from "../propertyList/propertyList"
-import Footer from "../Footer/Footer"
-// >>>>>>> Stashed changes
+import Propertylist from "../propertyList/propertyList"
 const Home = () => {
   return (
     <div>
