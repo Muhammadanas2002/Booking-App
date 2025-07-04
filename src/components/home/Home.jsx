@@ -5,6 +5,7 @@ import Navbar from "../navbar/navbar"
 import MailList from "../MailList/MailList"
 import "./home.css"
 import Propertylist from "../propertyList/propertyList"
+import Footer from "../Footer/Footer"
 const Home = () => {
   return (
     <div>
