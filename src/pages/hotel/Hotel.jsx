@@ -1,6 +1,6 @@
 import "./Hotel.css"
 import Navbar from "../../components/navbar/navbar"
-import Header from "../../components/Header/Header.jsx"
+import Header from "../../components/header/Header.jsx"
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome"
 import { faCircleArrowLeft, faCircleArrowRight, faLocation, faLocationDot } from "@fortawesome/free-solid-svg-icons"
 import MailList from "../../components/MailList/MailList.jsx"
