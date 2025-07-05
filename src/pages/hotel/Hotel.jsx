@@ -4,9 +4,9 @@ import Header from "../../components/Header/Header.jsx"
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome"
 import { faCircleArrowLeft, faCircleArrowRight, faLocation, faLocationDot } from "@fortawesome/free-solid-svg-icons"
 import MailList from "../../components/MailList/MailList.jsx"
-import Footer from "../../components/Footer/Footer.jsx"
 import { useState } from "react"
 import { faCircle, faCircleXmark } from "@fortawesome/free-regular-svg-icons"
+import Footer from "../../components/Footer/Footer.jsx"
 const Hotel = () => {
 
   const [slideNum, setSlideNum] = useState(0);
